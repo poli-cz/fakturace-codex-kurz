@@ -30,3 +30,5 @@ git clean -fd
 ## Prezentace
 
 Slidy prvního dne: [prezentace/den1-codex-agentni-vyvoj.pdf](prezentace/den1-codex-agentni-vyvoj.pdf)
+
+Návod ke cvičením s příkazy ke zkopírování: [NAVOD-CVICENI.pdf](NAVOD-CVICENI.pdf)
