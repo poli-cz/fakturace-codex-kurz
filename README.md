@@ -26,3 +26,7 @@ git clean -fd
 ```
 
 Úlohy pro cvičení: [ULOHY.md](ULOHY.md).
+
+## Prezentace
+
+Slidy prvního dne: [prezentace/den1-codex-agentni-vyvoj.pdf](prezentace/den1-codex-agentni-vyvoj.pdf)
